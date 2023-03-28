@@ -1,0 +1,30 @@
+.footer{
+    color:#e6d32b;
+    font-size: 1.75rem;
+    font-weight: 100;
+    /*padding: 1.5625rem 5rem;*/
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 0;
+    padding: 1rem;
+}
+
+/*
+.footer__youtube {
+    background-image: url('../../img/youtube.png');
+}
+
+.footer__instagram {
+    background-image: url('../../img/insta.png');
+}
+
+.footer__twitter {
+    background-image: url('../../img/twitter.png');
+}
+
+.footer__facebook {
+    background-image: url('../../assets/img/facebook.png');
+}
+*/

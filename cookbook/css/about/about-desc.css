@@ -1,0 +1,18 @@
+.about__desc{
+    color:black;
+    font-weight: 100;
+    font-weight: 100;
+}
+/*mobile*/
+
+@media screen and(min-width: 0){
+    .about__desc{
+      font-size:1.3rem;
+    }
+}
+
+@media screen and(min-width: 768px){
+    .about{
+      font-size:1.75rem;
+    }
+}
