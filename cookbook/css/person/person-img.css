@@ -9,13 +9,13 @@
 }
 
 .person__image-anna {
-    background-image: url('../../img/anna.jpg');
+    background-image: url('cookbook/assets/img/anna.jpg');
 }
 
 .person__image-karen {
-    background-image: url('../../img/karen.jpg');
+    background-image: url('cookbook/assets/img/karen.jpg');
 }
 
 .person__image-julia {
-    background-image: url('../../img/julia.jpg');
+    background-image: url('cookbook/assets/img/julia.jpg');
 }
